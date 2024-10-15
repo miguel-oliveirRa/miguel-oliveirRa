@@ -4,9 +4,9 @@
 
 # Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Miguel Oliveira!
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Sobre mim
 
-Bem-vindo(a) ao meu perfil no GitHub. Estou atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e por aprender coisas novas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />. Embora eu ainda não tenha experiência profissional no mercado, estou constantemente explorando novas ideias.
+Bem-vindo(a) ao meu perfil no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e por aprender coisas novas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />. Embora eu ainda não tenha experiência profissional no mercado, estou constantemente explorando novas ideias.
 
 ---
 <div>
@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu perfil no GitHub. Estou atualmente estou cursando Análise e
   <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-oliveirRa&layout=compact&theme=tokyonight" alt="miguel's most languages" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tecnologias Utilizadas
     
 <div>
   <img src="https://skillicons.dev/icons?i=cs,mysql,js,react,ts,html,css,git,github">
