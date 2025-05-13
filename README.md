@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Sobre mim
 
-Bem-vindo(a) ao meu perfil no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Estou constantemente explorando novas ideias.
+Bem-vindo(a) ao meu perfil no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e estou constantemente explorando novas ideias.
 
 ---
 <div>
